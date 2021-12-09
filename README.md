@@ -1,6 +1,5 @@
 
 <html>
-<title>Шаурма по божески</title>
 <body style="font-family:Georgia">
 <header style="background-color:grey">
 <h1 style="text-align:center;font-size:50px"> <font color="indigo">Шаурма лучше бургерной</font></h1>
